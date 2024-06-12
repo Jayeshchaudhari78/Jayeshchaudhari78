@@ -29,12 +29,13 @@ Research Analyst Intern at Opulent Infotech Pvt Ltd , Pune (Jan 2024 - May 2024)
 
 • Model Used: LSTM, GRU, LSTM-GRU (Hybrid Model), RNN, ARIMA.
 
-• Skills Gain: Problem-Solving, Understanding Deep Learning Algorithms, data manipulation,  Data preprocessing, Data Analysis, Statistic Modeling, Time Series Analysis, and Predictive Modeling.
+• Skills Gain: Problem-Solving, Understanding Deep Learning Algorithms, data manipulation,  Data preprocessing, Data Analysis, Statistic Modeling,
+  Time Series Analysis, and Predictive Modeling.
 
 # Created a dashboard for data analysis and sales forecasting using Power BI:
 
 • Objective: Utilized data analysis techniques, particularly time series analysis, to provide insights 
-and accurate sales forecasting for business growth.
+  and accurate sales forecasting for business growth.
 
 • Description:
 
